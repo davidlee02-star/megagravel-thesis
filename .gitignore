@@ -1,0 +1,23 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat
+*.mlappinstall
+*.mltbx
+*.slxc
+slprj/
+sccprj/
+
+# Data files (don't redistribute)
+data/
+*.xlsx
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*~
